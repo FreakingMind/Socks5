@@ -8,7 +8,6 @@ cd Socks5/
 ```
 ## RUN
 ``` bash
-cd Socks5/
 ./build/gloriousocks_server
 ```
 
