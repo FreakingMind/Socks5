@@ -12,4 +12,5 @@ cd Socks5LibEv/gloriousocks/
 ```
 
 ## TEST:
-Mozila: Settingg, network configuration: SOCKS 5, 127.0.0.1, Port: 15593
+Mozila: 
+Settings, network configuration: SOCKS 5, 127.0.0.1, Port: 15593
