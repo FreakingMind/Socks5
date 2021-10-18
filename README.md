@@ -3,6 +3,7 @@
 ## BUILD
 ``` bash
 git clone https://github.com/FreakingMind/Socks5
+cd Socks5/
 ./compile.sh
 ```
 ## RUN
