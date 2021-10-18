@@ -7,7 +7,7 @@ git clone https://github.com/FreakingMind/Socks5
 ```
 ## RUN
 ``` bash
-cd Socks5LibEv/gloriousocks/
+cd Socks5/
 ./build/gloriousocks_server
 ```
 
