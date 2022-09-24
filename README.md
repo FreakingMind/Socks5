@@ -1,5 +1,5 @@
 # Socks5
-Socks5 realization via libed
+Socks5 realization via libev
 
 ## BUILD
 ``` bash
