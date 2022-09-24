@@ -1,6 +1,8 @@
 # Socks5
 Socks5 realization via libev
 
+Homework in HSE Computer Security
+
 ## BUILD
 ``` bash
 git clone https://github.com/FreakingMind/Socks5
